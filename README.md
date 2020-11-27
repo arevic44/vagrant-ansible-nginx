@@ -7,7 +7,6 @@ A sample project to demonstrate the upstream module of Nginx. Default balancing 
 1. Ensure that both [Vagrant](https://www.vagrantup.com/docs/installation) and [Ansible](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html) are installed on the host.
 2. Configure setup in `hosts.yml`
 3. Run Vagrant to setup virtual machines.
-
 ```
 vagrant up
 ```
